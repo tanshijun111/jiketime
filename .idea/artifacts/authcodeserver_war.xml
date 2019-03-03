@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="authcodeserver:war">
+    <output-path>$PROJECT_DIR$/authcodeserver/target</output-path>
+    <root id="archive" name="authcode-server.war">
+      <element id="artifact" artifact-name="authcodeserver:war exploded" />
+    </root>
+  </artifact>
+</component>
